@@ -1,0 +1,101 @@
+id,movie_name,release_year,genre,budget,revenue,rating
+1,The Shawshank Redemption,1994,Drama,25,58,9.3
+2,The Godfather,1972,Crime,6,245,9.2
+3,The Godfather Part II,1974,Crime,13,88,9.0
+4,The Dark Knight,2008,Action,185,1004,9.0
+5,Pulp Fiction,1994,Crime,8,214,8.9
+6,Schindler's List,1993,Drama,22,321,9.0
+7,The Lord of the Rings: The Return of the King,2003,Adventure,94,1119,9.0
+8,12 Angry Men,1957,Drama,0.34, ,8.9
+9,The Good the Bad and the Ugly,1966,Western,1.2,25,8.8
+10,Forrest Gump,1994,Drama,55,677,8.8
+11,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure,93,871,8.9
+12,Inception,2010,Sci-Fi,160,829,8.8
+13,Fight Club,1999,Drama,63,101,8.8
+14,The Empire Strikes Back,1980,Sci-Fi,18,538,8.7
+15,The Lord of the Rings: The Two Towers,2002,Adventure,94,926,8.8
+16,The Matrix,1999,Sci-Fi,63,463,8.7
+17,Goodfellas,1990,Crime,25,46,8.7
+18,One Flew Over the Cuckoo's Nest,1975,Drama,3,112,8.7
+19,Seven Samurai,1954,Action,2, ,8.6
+20,Interstellar,2014,Sci-Fi,165,677,8.6
+21,Se7en,1995,Crime,33,327,8.6
+22,City of God,2002,Crime, ,30,8.6
+23,The Silence of the Lambs,1991,Thriller,19,272,8.6
+24,It's a Wonderful Life,1946,Drama,3.18, ,8.6
+25,Life Is Beautiful,1997,Comedy,20,229,8.6
+26,The Usual Suspects,1995,Crime,6,23,8.5
+27,Spirited Away,2001,Animation,19,395,8.6
+28,Saving Private Ryan,1998,War,70,482,8.6
+29,The Green Mile,1999,Drama,60,286,8.6
+30,Parasite,2019,Thriller,11,258,8.5
+31,Léon: The Professional,1994,Action, ,115,8.5
+32,The Pianist,2002,Drama,35,120,8.5
+33,Terminator 2: Judgment Day,1991,Action,102,520,8.6
+34,Back to the Future,1985,Sci-Fi,19,381,8.5
+35,Psycho,1960,Horror,0.8,50,8.5
+36,Modern Times,1936,Comedy,1.5, ,8.5
+37,American History X,1998,Drama,20,23,8.5
+38,Gladiator,2000,Action,103,460,8.5
+39,City Lights,1931,Comedy,1.5, ,8.5
+40,The Departed,2006,Crime,90,291,8.5
+41,Whiplash,2014,Drama,3,49,8.5
+42,The Intouchables,2011,Comedy, ,432,8.5
+43,The Prestige,2006,Drama,40,109,8.5
+44,Grave of the Fireflies,1988,Animation, , ,8.5
+45,Harakiri,1962,Drama, , ,8.6
+46,The Lion King,1994,Animation,45,968,8.5
+47,Casablanca,1942,Drama,0.95, ,8.5
+48,Once Upon a Time in the West,1968,Western,5, ,8.5
+49,The Avengers,2012,Action,220,1519,8.0
+50,Rear Window,1954,Thriller,1,37,8.5
+51,Alien,1979,Horror,11,106,8.5
+52,Cinema Paradiso,1988,Drama,5, ,8.5
+53,Apocalypse Now,1979,War,31.5,150,8.4
+54,Memento,2000,Thriller,9,40,8.4
+55,Raiders of the Lost Ark,1981,Adventure,18,389,8.4
+56,The Great Dictator,1940,Comedy,2, ,8.4
+57,Django Unchained,2012,Western,100,425,8.4
+58,The Shining,1980,Horror,19,44,8.4
+59,WALL·E,2008,Animation,180,521,8.4
+60,Avengers: Infinity War,2018,Action,316,2048,8.4
+61,Sunset Boulevard,1950,Drama,1.75, ,8.4
+62,Paths of Glory,1957,War,0.93, ,8.4
+63,Spider-Man: Into the Spider-Verse,2018,Animation,90,375,8.4
+64,Witness for the Prosecution,1957,Drama, , ,8.4
+65,The Dark Knight Rises,2012,Action,250,1084,8.4
+66,Oldboy,2003,Thriller,3,15,8.3
+67,Joker,2019,Crime,55,1074,8.4
+68,Princess Mononoke,1997,Animation, ,450,8.3
+69,Your Name.,2016,Animation, ,358,8.4
+70,Aliens,1986,Sci-Fi,18,131,8.4
+71,American Beauty,1999,Drama,15,356,8.3
+72,Braveheart,1995,Drama,72,210,8.3
+73,Amadeus,1984,Drama,18,52,8.4
+74,Toy Story,1995,Animation,30,373,8.3
+75,Das Boot,1981,War,14, ,8.4
+76,Inglourious Basterds,2009,War,75,321,8.4
+77,Good Will Hunting,1997,Drama,10,225,8.3
+78,Requiem for a Dream,2000,Drama,4.5, ,8.3
+79,2001: A Space Odyssey,1968,Sci-Fi,12,146,8.3
+80,Vertigo,1958,Thriller,2.5, ,8.3
+81,Reservoir Dogs,1992,Crime,1.2,2.8,8.3
+82,Eternal Sunshine of the Spotless Mind,2004,Drama,20,72,8.3
+83,Star Wars,1977,Sci-Fi,11,775,8.6
+84,Citizen Kane,1941,Drama,0.84, ,8.3
+85,The Hunt,2012,Drama, , ,8.3
+86,North by Northwest,1959,Thriller,4, ,8.3
+87,Dangal,2016,Action, ,303,8.3
+88,Full Metal Jacket,1987,War,30,46,8.3
+89,A Clockwork Orange,1971,Sci-Fi,2.2, ,8.3
+90,Scarface,1983,Crime,25,65,8.3
+91,The Sting,1973,Comedy,5.5,156,8.3
+92,Up,2009,Animation,175,735,8.3
+93,The Wolf of Wall Street,2013,Comedy,100,392,8.2
+94,Heat,1995,Crime,60,187,8.3
+95,Incendies,2010,Drama, , ,8.3
+96,Unforgiven,1992,Western,14,159,8.2
+97,Die Hard,1988,Action,28,141,8.2
+98,Metropolis,1927,Sci-Fi, , ,8.3
+99,The Apartment,1960,Comedy,3, ,8.3
+100,Indiana Jones and the Last Crusade,1989,Adventure,48,474,8.2
